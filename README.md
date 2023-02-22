@@ -30,7 +30,7 @@ Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/rebecacoelho/ignite-feed-ts.git
-$ cd Ignite-Feed
+$ cd ignite-feed-ts
 ```
 
 Follow the steps below:
