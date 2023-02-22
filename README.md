@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Ignite Feed<br><br>Ignite - React da Rocketseat.</h1>
+<h1 align="center">Ignite Feed - Projeto React da Rocketseat.</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/JoyceFatima/Ignite-Feed.git
+$ git clone https://github.com/rebecacoelho/ignite-feed-ts.git
 $ cd Ignite-Feed
 ```
 
@@ -51,4 +51,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">Made by <a href="https://github.com/JoyceFatima">Joyce de Fátima</a></p>
+<p align="center">Made by <a href="https://github.com/rebecacoelho">Rebeca Coelho</a></p>
